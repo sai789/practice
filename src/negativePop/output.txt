@@ -1,0 +1,14 @@
+
+You have entered 23
+23 is pushed to stack!
+You have entered 90
+90 is pushed to stack!
+You have entered -3
+It's a negative number. You entered below non-negative numbers(in reverse order) till now!
+90
+23
+You have entered 1
+1 is pushed to stack!
+You have entered -8
+It's a negative number. You entered below non-negative numbers(in reverse order) till now!
+1
